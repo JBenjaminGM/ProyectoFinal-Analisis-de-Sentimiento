@@ -1,5 +1,5 @@
 # ProyectoFinal-Analisis-de-Sentimiento
-## AUTORES
+# AUTORES
 Jossepy Benjamin Garcia Manrrique
 Estudiante Ingenieria de Sistemas e Informatica
 
