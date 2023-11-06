@@ -21,7 +21,7 @@ Analizar los sentimientos y opiniones expresados en Twitter en relación a la me
 * Otras librerias: transfo
 
 ## Publicación a analisizar
-[Visita mi web](https://oscarnovas.com](https://x.com/larepublica_pe/status/1710265041004495208?s=20)
+https://oscarnovas.com](https://x.com/larepublica_pe/status/1710265041004495208?s=20
 
 ## Comentario sobre dataset
 Dataset CSV descargado el día 10 de octubre con un total de 100 registros
