@@ -1,13 +1,13 @@
 # PROYECTO FINAL DE ANALISIS DE SENTIMIENTO
 ## AUTORES
 1. CELSO S. SANCHEZ CALLME
-  * ING. SISTEMAS E INFORMATICA
+   * ING. SISTEMAS E INFORMATICA
 
 2. BENJAMIN GARCIA MANRRIQUE
-  * ING. SISTEMAS E INFORMATICA
+   * ING. SISTEMAS E INFORMATICA
 
 3. DIEGO A. FERRUA HUIVIN
-  * ING. ELECTRONICA
+   * ING. ELECTRONICA
 
 ## Objetivos
 Analizar los sentimientos y opiniones expresados en Twitter en relación a la medida gubernamental que permite a la policía detener a civiles durante hasta 4 horas sin DNI y sin necesidad de la presencia de un juez o fiscal. A través de este análisis, buscamos comprender la percepción pública de esta política, identificar tendencias o patrones en la discusión, y proporcionar información valiosa sobre cómo se siente la sociedad en general sobre esta medida.
