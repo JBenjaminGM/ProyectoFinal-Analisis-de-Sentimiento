@@ -1,16 +1,22 @@
-# ProyectoFinal-Analisis-de-Sentimiento
-# AUTORES
-Jossepy Benjamin Garcia Manrrique
-Estudiante Ingenieria de Sistemas e Informatica
+# PROYECTO FINAL DE ANALISIS DE SENTIMIENTO
+## AUTORES
+* CELSO S. SANCHEZ CALLME
+  ING. SISTEMAS E INFORMATICA
+
+*BENJAMIN GARCIA MANRRIQUE
+  ING. SISTEMAS E INFORMATICA
+
+* DIEGO A. FERRUA HUIVIN
+  ING. ELECTRONICA
 
 ## Objetivos
-Realizar un analisi de sentimiento a un grupo de datos provenientes de la red social
+Analizar los sentimientos y opiniones expresados en Twitter en relación a la medida gubernamental que permite a la policía detener a civiles durante hasta 4 horas sin DNI y sin necesidad de la presencia de un juez o fiscal. A través de este análisis, buscamos comprender la percepción pública de esta política, identificar tendencias o patrones en la discusión, y proporcionar información valiosa sobre cómo se siente la sociedad en general sobre esta medida.
 
 ## Tecnologíias utilizadas
 Procesamiento de datos: Pandas, PySpark
-Análisis EDA: Pandas, Numpy,Matplotlip, Seaborn
+Análisis EDA: Pandas, Numpy, Matplotlip, Seaborn
 Lenguajes de programación: Python
-Otras librerias:
+Otras librerias: transfo
 
 ## Comentario sobre dataset
 Dataset CSV descargado el día 10 de octubre con un total de 100 registros
