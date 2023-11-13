@@ -16,7 +16,7 @@ Analizar los sentimientos y opiniones expresados en Twitter en relación a la me
 
 ## Tecnologíias utilizadas
 * Procesamiento de datos: Pandas, PySpark
-* Análisis EDA: Pandas, Numpy, Matplotlip, Seaborn
+* Análisis EDA: Pandas, Numpy, Matplotlip
 * Lenguajes de programación: Python
 * Otras librerias: transfo
 
