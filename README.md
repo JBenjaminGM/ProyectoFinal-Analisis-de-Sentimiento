@@ -34,4 +34,11 @@ El conjunto de datos en formato CSV fue descargado el 10 de octubre y consta de 
 El dataset exhibe una notable diversidad de comentarios y frases. Se destaca la presencia de una estructura cultural pronunciada, caracterizada por diversas formas de expresión, vocabulario autóctono y elementos humorísticos. La inclusión de estas dimensiones culturales en los comentarios puede requerir una consideración especial durante el análisis y procesamiento de datos.
 
 ## Conclusiones del proyecto
+Considerando que la Inteligencia Artificial (IA) y el Aprendizaje Automático son campos de alcance exploratorio, cada vez surge una mayor necesidad de interpretar el lenguaje humano mediante técnicas de Análisis de Sentimientos. Esta tarea representa una barrera de gran tamaño y complejidad. En ese sentido, el presente proyecto de fin de curso ha sido un desafío significativo y, a la vez, una gran motivación debido al impacto que puede generar antes, durante y después de la presentación.
+
+La búsqueda del modelo de representación del lenguaje "BERT" nos llevó a analizar e interpretar otros modelos existentes, como Spacy o NLTK, con el objetivo de encontrar el modelo que logre una mayor efectividad en la interpretación del complejo léxico, a menudo coloquial, del idioma español en el Perú. Con BERT, es posible mejorar la efectividad (exactitud/accuracy), pero mucho depende del volumen de datos utilizados para el entrenamiento.
+
+El presente proyecto logra demostrar la polaridad existente en los comentarios de un tweet y, a través de un proceso de prueba y error, BERT revela sentimientos divididos en la población. De un total de 140 comentarios, se observa que el 46.04% votó a favor del comentario, el 37.41% lo rechaza y el 16.55% muestra neutralidad.
+
+La intersección entre la tecnología y la comprensión del lenguaje humano es un terreno fértil para la innovación, y este proyecto representa un paso importante en ese viaje. Sigamos explorando, aprendiendo y aplicando estas herramientas para seguir desentrañando los misterios del lenguaje y construir un futuro donde la inteligencia artificial sea una aliada invaluable en la interpretación de nuestras complejas interacciones verbales.
 
