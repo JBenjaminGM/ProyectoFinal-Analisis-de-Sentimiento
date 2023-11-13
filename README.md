@@ -2,10 +2,11 @@
 El presente trabajo busca evaluar la percepción pública y las emociones relacionadas con la medida gubernamental que permite a la policía retener a civiles durante hasta 4 horas si no tienen DNI y sin necesidad de la presencia de un juez o fiscal. Utilizando el análisis de datos y Machine learning. 
 
 ## AUTORES
-* **CELSO S. SANCHEZ CALLME**
-   * ING. SISTEMAS E INFORMATICA
 
 * **BENJAMIN GARCIA MANRRIQUE**
+   * ING. SISTEMAS E INFORMATICA
+     
+* **CELSO S. SANCHEZ CALLME**
    * ING. SISTEMAS E INFORMATICA
 
 * **DIEGO A. FERRUA HUIVIN**
