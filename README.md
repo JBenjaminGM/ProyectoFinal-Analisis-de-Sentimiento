@@ -28,13 +28,10 @@ Analizar los sentimientos y opiniones expresados en Twitter en relación a la me
 * Otras librerias: transformers, datasets, tensorflow, accelerate
 
 ## Comentario sobre dataset
-Dataset CSV descargado el día 10 de octubre con un total de 100 registros
+El conjunto de datos en formato CSV fue descargado el 10 de octubre y consta de 140 registros, lo que representa un 82.35% del total de 170 registros disponibles.
 
 ## Hallazgos importantes
-Dataset con variedad de comentarios y fraces.
-Los comentarios tiene mucha estructura cultural(Formas de habla, palabras nativas, bromas)
+El dataset exhibe una notable diversidad de comentarios y frases. Se destaca la presencia de una estructura cultural pronunciada, caracterizada por diversas formas de expresión, vocabulario autóctono y elementos humorísticos. La inclusión de estas dimensiones culturales en los comentarios puede requerir una consideración especial durante el análisis y procesamiento de datos.
 
 ## Conclusiones del proyecto
-Se concluyo que con la aplicacion del modelo de regresioon logistica se puede obtener resultados a la hora de aplicar analisis de sentimientos. Sin embargo, se requieren más data para poder mejorar el modelo
 
-Los modelos de entrenamientos para analis de sentimiento en español necesitan estar mejorentrenados
