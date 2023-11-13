@@ -1,0 +1,604 @@
+comments;label
+esa chamba está chévere, todos son buena onda.;1
+la comida de la abuela es la mejor, me llena el corazón.;1
+no sé qué pasó, pero ya no me habla, estoy triste.;-1
+ayer la pase bien en la reunión, risas y chistes toda la noche.;1
+el tráfico hoy estuvo infernal, llegué tarde a la chamba.;-1
+no me gusta ese lugar, siempre está lleno de gente pesada.;-1
+hoy no ha pasado nada interesante, día aburrido.;0
+qué tal ese partido de fútbol, jugada maestra del equipo.;1
+no entendí nada en esa clase, el profe habló en chino.;-1
+estoy cansado de la rutina, necesito unas vacaciones.;-1
+buena música en la radio, me levanta el ánimo.;1
+perdí mi billetera, estoy realmente molesto.;-1
+esa serie es lo máximo, no puedo dejar de verla.;1
+mejoró el clima, por fin se fue el frío intenso.;1
+no sé qué hacer con tanto trabajo, me siento agobiado.;-1
+reunión familiar este fin de semana, emocionado por ver a todos.;1
+mi equipo ganó el partido, estamos en racha.;1
+la comida picante no es lo mío, me arde la boca.;-1
+hoy es un día normal, ni bueno ni malo.;0
+esa película estuvo aburrida, me quedé dormido.;-1
+la nueva canción del grupo favorito es genial, la repetiré mil veces.;1
+se me olvidaron las llaves en casa, qué desastre.;-1
+conocí a alguien interesante hoy, buena vibra.;1
+odio las mañanas, siempre llego tarde al trabajo.;-1
+la comida callejera aquí es exquisita, no hay comparación.;1
+no hay señal de internet, imposible trabajar.;-1
+me encanta el olor a lluvia, día perfecto.;1
+el servicio en ese restaurante es pésimo, no vuelvo.;-1
+hoy no me siento bien, creo que me resfrié.;-1
+esa tienda tiene ofertas increíbles, compré un montón.;1
+me encontré con mi ex, incomodidad total.;-1
+qué risa con ese meme, me alegró el día.;1
+no entiendo cómo funciona esta aplicación, es un lío.;-1
+el nuevo libro del autor favorito es decepcionante.;-1
+el paisaje en la playa al atardecer es hermoso.;1
+perdí el autobús, llegaré tarde a la cita.;-1
+la música a todo volumen, vecinos molestos.;-1
+me cancelaron el plan de último momento, qué frustración.;-1
+estoy agradecido por la ayuda que recibí, bendiciones.;1
+la comida picante es mi favorita, me encanta el sabor.;1
+no sé qué cocinar hoy, estoy aburrido de lo mismo.;0
+gané la lotería, no lo puedo creer.;1
+me bloquearon en redes sociales, ¿qué hice mal?;-1
+hoy fue un día productivo, logré todas mis metas.;1
+el tráfico está tranquilo, llegué rápido a casa.;1
+no me gusta esa serie, la trama es aburrida.;-1
+la película fue emocionante, lloré al final.;1
+el nuevo jefe es exigente, no me gusta trabajar con él.;-1
+estoy enamorado, la vida es bella.;1
+no puedo dejar de reír con ese video, genial.;1
+se me dañó el celular, día arruinado.;-1
+la comida peruana es la mejor del mundo, orgullo nacional.;1
+no entiendo nada de política, me aburre.;-1
+la reunión fue un éxito, todos participaron.;1
+no soporto el calor, necesito un aire acondicionado.;-1
+hoy conocí a alguien especial, mariposas en el estómago.;1
+la película de terror me asustó tanto que no puedo dormir.;-1
+qué alegría ver a mis amigos después de tanto tiempo.;1
+mi equipo perdió el partido, qué decepción.;-1
+no hay nada interesante en la tele, puro aburrimiento.;-1
+me cancelaron la reserva en el restaurante, qué mala suerte.;-1
+la comida rápida es mi debilidad, no puedo resistirme.;1
+odio los lunes, siempre son caóticos.;-1
+la nueva serie es adictiva, no puedo dejar de verla.;1
+mi vecino tiene música a todo volumen, no puedo concentrarme.;-1
+hoy fue un día relajado, descansé mucho.;1
+el café de la esquina es horrible, no vuelvo a comprarlo.;-1
+no sé qué regalar en navidad, siempre me estreso con eso.;-1
+esa canción me trae recuerdos tristes, mejor la cambio.;-1
+el concierto fue épico, la mejor experiencia de mi vida.;1
+perdí el vuelo, vacaciones arruinadas.;-1
+no entiendo la moda actual, todo me parece raro.;-1
+la comida saludable es aburrida, prefiero la chatarra.;1
+me encanta la lluvia, es tan relajante.;1
+no me gusta el sabor de esa bebida, es demasiado amarga.;-1
+hoy comí la mejor pizza de mi vida, qué delicia.;1
+el nuevo vecino es amigable, nos llevamos bien.;1
+mi equipo empató el partido, ni bueno ni malo.;0
+no puedo creer lo caro que está todo, la inflación es terrible.;-1
+la comida china es mi perdición, siempre la disfruto.;1
+mi jefa me elogió por mi trabajo, me siento realizado.;1
+no me gusta la playa, la arena y el sol me molestan.;-1
+el concierto fue cancelado, estoy devastado.;-1
+hoy me levanté con buen ánimo, listo para enfrentar el día.;1
+odio hacer ejercicio, me canso demasiado rápido.;-1
+la comida picante me hace llorar, pero me encanta.;1
+no sé cocinar, siempre quemo la comida.;-1
+el tráfico está caótico, no avanzo ni un metro.;-1
+la película de terror no me asustó en absoluto, aburrida.;-1
+me encontré con un amigo de la infancia, qué sorpresa.;1
+no aguanto el ruido de la ciudad, siempre hay sirenas.;-1
+hoy fue un día aburrido, no pasó nada emocionante.;0
+me encanta el olor a tierra mojada, es tan fresco.;1
+no sé qué hacer con tanto tiempo libre, me aburro.;0
+qué chévere la comida de ese restaurante, me encantó la sazón.;1
+no entiendo nada de este tema, estoy más perdido que chalaco en la selva.;-1
+hoy el clima está bien piola, ideal para salir a pasear.;1
+el partido estuvo aburridazo, no pasaba nada emocionante.;-1
+me cayó mal esa persona, tiene una vibra bien extraña.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa película estuvo bien fome, no la recomiendo para nada.;-1
+la música de esa banda me pone de buenas, es bien prendida.;1
+no me gusta nada esa serie, los personajes son bien antipáticos.;-1
+la comida picante me mata, pero esa salsa estaba bravaza.;1
+hoy todo salió de la patada, nada salió como lo planeado.;-1
+mi jefe es bien buena onda, siempre nos apoya en todo.;1
+qué aburrido estar en cuarentena, me siento como chanchito en dieta.;-1
+me encanta el aroma del café por la mañana, es recontra relajante.;1
+no entiendo por qué tanto alboroto, esas noticias son puro humo.;-1
+qué bacán esa fiesta, estuvo de pelos.;1
+no me gusta estudiar, pero con esas clases aprendí caleta.;1
+este lugar es bien chévere para relajarse, la vista es increíble.;1
+estoy cansadazo, parezco chasqui después de subir una montaña.;-1
+no me cae bien esa persona, tiene una actitud bien cahuinera.;-1
+la comida de ese lugar es recontrabuena, me encanta.;1
+no sé qué hacer, estoy más perdido que chalaco en el centro de lima.;-1
+el concierto estuvo increíble, la banda se lució.;1
+no entiendo nada de matemáticas, estoy más perdido que cuy en pollería.;-1
+hoy fue un día bien piola, nada fuera de lo común.;0
+la película estuvo más aburrida que chamba de feriado.;-1
+me gusta esa canción, tiene un ritmo bien pegajoso.;1
+no me gusta ese lugar, la atención es bien mala.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa serie es bien entretenida, no puedo dejar de verla.;1
+la comida picante me mata, pero esa salsa está bravaza.;1
+hoy todo salió de la patada, fue un día bien raro.;-1
+mi profesor es bien buena onda, siempre explica todo bien.;1
+qué aburrido estar en cuarentena, me siento como chanchito en dieta.;-1
+me encanta el aroma del café por la mañana, es recontra relajante.;1
+no entiendo por qué tanto alboroto, esas noticias son puro humo.;-1
+qué bacán esa fiesta, estuvo de pelos.;1
+no me gusta estudiar, pero con esas clases aprendí caleta.;1
+este lugar es bien chévere para relajarse, la vista es increíble.;1
+estoy cansadazo, parezco chasqui después de subir una montaña.;-1
+no me cae bien esa persona, tiene una actitud bien cahuinera.;-1
+la comida de ese lugar es recontrabuena, me encanta.;1
+no sé qué hacer, estoy más perdido que chalaco en el centro de lima.;-1
+el concierto estuvo increíble, la banda se lució.;1
+no entiendo nada de matemáticas, estoy más perdido que cuy en pollería.;-1
+hoy fue un día bien piola, nada fuera de lo común.;0
+la película estuvo más aburrida que chamba de feriado.;-1
+me gusta esa canción, tiene un ritmo bien pegajoso.;1
+no me gusta ese lugar, la atención es bien mala.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa serie es bien entretenida, no puedo dejar de verla.;1
+la comida picante me mata, pero esa salsa está bravaza.;1
+hoy todo salió de la patada, fue un día bien raro.;-1
+mi profesor es bien buena onda, siempre explica todo bien.;1
+qué aburrido estar en cuarentena, me siento como chanchito en dieta.;-1
+me encanta el aroma del café por la mañana, es recontra relajante.;1
+no entiendo por qué tanto alboroto, esas noticias son puro humo.;-1
+qué bacán esa fiesta, estuvo de pelos.;1
+no me gusta estudiar, pero con esas clases aprendí caleta.;1
+este lugar es bien chévere para relajarse, la vista es increíble.;1
+estoy cansadazo, parezco chasqui después de subir una montaña.;-1
+no me cae bien esa persona, tiene una actitud bien cahuinera.;-1
+la comida de ese lugar es recontrabuena, me encanta.;1
+no sé qué hacer, estoy más perdido que chalaco en el centro de lima.;-1
+el concierto estuvo increíble, la banda se lució.;1
+no entiendo nada de matemáticas, estoy más perdido que cuy en pollería.;-1
+hoy fue un día bien piola, nada fuera de lo común.;0
+la película estuvo más aburrida que chamba de feriado.;-1
+me gusta esa canción, tiene un ritmo bien pegajoso.;1
+no me gusta ese lugar, la atención es bien mala.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa serie es bien entretenida, no puedo dejar de verla.;1
+la comida picante me mata, pero esa salsa está bravaza.;1
+hoy todo salió de la patada, fue un día bien raro.;-1
+mi profesor es bien buena onda, siempre explica todo bien.;1
+qué aburrido estar en cuarentena, me siento como chanchito en dieta.;-1
+me encanta el aroma del café por la mañana, es recontra relajante.;1
+no entiendo por qué tanto alboroto, esas noticias son puro humo.;-1
+qué bacán esa fiesta, estuvo de pelos.;1
+no me gusta estudiar, pero con esas clases aprendí caleta.;1
+este lugar es bien chévere para relajarse, la vista es increíble.;1
+estoy cansadazo, parezco chasqui después de subir una montaña.;-1
+no me cae bien esa persona, tiene una actitud bien cahuinera.;-1
+la comida de ese lugar es recontrabuena, me encanta.;1
+no sé qué hacer, estoy más perdido que chalaco en el centro de lima.;-1
+el concierto estuvo increíble, la banda se lució.;1
+no entiendo nada de matemáticas, estoy más perdido que cuy en pollería.;-1
+hoy fue un día bien piola, nada fuera de lo común.;0
+la película estuvo más aburrida que chamba de feriado.;-1
+me gusta esa canción, tiene un ritmo bien pegajoso.;1
+no me gusta ese lugar, la atención es bien mala.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa serie es bien entretenida, no puedo dejar de verla.;1
+la comida picante me mata, pero esa salsa está bravaza.;1
+hoy todo salió de la patada, fue un día bien raro.;-1
+mi profesor es bien buena onda, siempre explica todo bien.;1
+qué aburrido estar en cuarentena, me siento como chanchito en dieta.;-1
+me encanta el aroma del café por la mañana, es recontra relajante.;1
+no entiendo por qué tanto alboroto, esas noticias son puro humo.;-1
+qué bacán esa fiesta, estuvo de pelos.;1
+no me gusta estudiar, pero con esas clases aprendí caleta.;1
+este lugar es bien chévere para relajarse, la vista es increíble.;1
+estoy cansadazo, parezco chasqui después de subir una montaña.;-1
+no me cae bien esa persona, tiene una actitud bien cahuinera.;-1
+la comida de ese lugar es recontrabuena, me encanta.;1
+no sé qué hacer, estoy más perdido que chalaco en el centro de lima.;-1
+el concierto estuvo increíble, la banda se lució.;1
+no entiendo nada de matemáticas, estoy más perdido que cuy en pollería.;-1
+hoy fue un día bien piola, nada fuera de lo común.;0
+la película estuvo más aburrida que chamba de feriado.;-1
+me gusta esa canción, tiene un ritmo bien pegajoso.;1
+no me gusta ese lugar, la atención es bien mala.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa serie es bien entretenida, no puedo dejar de verla.;1
+la comida picante me mata, pero esa salsa está bravaza.;1
+hoy todo salió de la patada, fue un día bien raro.;-1
+mi profesor es bien buena onda, siempre explica todo bien.;1
+qué aburrido estar en cuarentena, me siento como chanchito en dieta.;-1
+me encanta el aroma del café por la mañana, es recontra relajante.;1
+no entiendo por qué tanto alboroto, esas noticias son puro humo.;-1
+qué bacán esa fiesta, estuvo de pelos.;1
+no me gusta estudiar, pero con esas clases aprendí caleta.;1
+este lugar es bien chévere para relajarse, la vista es increíble.;1
+estoy cansadazo, parezco chasqui después de subir una montaña.;-1
+no me cae bien esa persona, tiene una actitud bien cahuinera.;-1
+la comida de ese lugar es recontrabuena, me encanta.;1
+no sé qué hacer, estoy más perdido que chalaco en el centro de lima.;-1
+el concierto estuvo increíble, la banda se lució.;1
+no entiendo nada de matemáticas, estoy más perdido que cuy en pollería.;-1
+hoy fue un día bien piola, nada fuera de lo común.;0
+la película estuvo más aburrida que chamba de feriado.;-1
+me gusta esa canción, tiene un ritmo bien pegajoso.;1
+no me gusta ese lugar, la atención es bien mala.;-1
+estoy tan cansado que me siento como chasqui después de una maratón.;-1
+esa serie es bien entretenida, no puedo dejar de verla.;1
+la comida picante me mata, pero esa salsa está bravaza.;1
+hoy todo salió de la patada, fue un día bien raro.;-1
+me encanta la comida de la esquina, está chévere.;1
+no entiendo nada de lo que dijo en la clase, que aburrido.;-1
+hoy el clima está bien feo, no me gusta para nada.;-1
+qué buen concierto anoche, la rompieron todos.;1
+estuve esperando el bus como una hora, qué fastidio.;-1
+la película estuvo regular, ni muy buena ni muy mala.;0
+mis amigos son lo máximo, siempre están ahí para todo.;1
+el tráfico en lima es un desastre, me desespera.;-1
+la nueva canción de ese grupo está brutal, la recomiendo.;1
+no sé qué hacer este fin de semana, estoy aburrido.;-1
+esa chamba en el chifa está de pelos, la comida es espectacular.;1
+no me gusta nada cuando se ponen a chismosear en la oficina.;-1
+hoy hace un calor de la patada, necesito un ventilador urgente.;-1
+anoche la película estuvo más fome que clase de matemáticas.;-1
+qué chevere la reunión con los amigos, nos echamos unas risas bacanes.;1
+el tráfico en lima es un caos total, imposible llegar a tiempo.;-1
+estoy cansado de estudiar, pero sé que valdrá la pena al final.;0
+me encantó el concierto de la banda, la rompieron todas.;1
+la puesta de sol en la playa es una maravilla, relaja un montón.;1
+odio cuando la combi va tan lenta, parece que va a pata.;-1
+la comida picante me cae mal, siempre me arde el estómago después.;-1
+qué bien que me salió todo en el examen, estoy feliz de la vida.;1
+no hay luz en el barrio otra vez, estos cortes son lo peor.;-1
+el partido estuvo reñido, pero al final ganamos, qué emoción.;1
+este frío está de locos, no sé cómo la gente aguanta en la sierra.;-1
+me choca cuando la gente habla tan fuerte en el celular en el bus.;-1
+hoy estoy tranquilo en casa, sin nada que hacer, qué paz.;0
+la nueva canción de esa banda es un hit, la escucho todo el día.;1
+no entiendo nada de lo que explicó el profesor, qué complicado.;-1
+mis papás cocinan mejor que cualquier restaurante, son unos maestros.;1
+el trámite en la municipalidad fue más rápido de lo que pensaba, qué alivio.;1
+perder el celular fue lo peor que me pudo pasar, estoy desesperado.;-1
+esta serie en netflix es una joya, no puedo dejar de verla.;1
+el futbol es lo máximo, siempre anima el día ver un buen partido.;1
+mi jefe hoy estuvo de buen humor, hasta nos invitó a almorzar.;1
+no hay nada que hacer en este pueblo, es aburrido a más no poder.;-1
+el café de la esquina es tan malo que mejor ni lo tomo, qué desperdicio.;-1
+me resfrié de nuevo, estoy harto de estar enfermo.;-1
+conocí a alguien nuevo hoy, parece buena onda.;1
+la fiesta estuvo regular, la música no era tan buena como esperaba.;-1
+me emociona empezar el nuevo proyecto, va a ser genial.;1
+este calor me tiene derretido, no veo la hora de que llegue el invierno.;-1
+qué bien que arreglaron la calle, ya no hay tantos baches.;1
+no sé qué pedir en el restaurante, todo se ve tan rico.;0
+odio cuando se va la señal del internet, no puedo hacer nada.;-1
+mi hermana me prestó su auto, qué chévere, ahora puedo pasear.;1
+mejoré en el gimnasio, estoy más fuerte que nunca.;1
+la comida peruana es la mejor del mundo, sin discusión.;1
+hoy fue un día normal, ni bueno ni malo, así es la vida.;0
+qué emoción ver a mi equipo ganar, celebré como nunca.;1
+estoy cansado de tanto trabajo, necesito unas vacaciones urgentes.;-1
+la nueva película peruana está buenaza, la recomiendo.;1
+no soporto el tráfico en la panamericana, siempre está congestionada.;-1
+me robaron la billetera, estoy furioso, qué impotencia.;-1
+la música criolla siempre me pone de buen humor, es lo máximo.;1
+no entiendo nada de política, todo me parece un lío.;-1
+hoy no tengo ganas de hacer nada, solo quiero descansar.;0
+qué felicidad cuando encontré mi celular perdido, casi lloro de alegría.;1
+el nuevo restaurante en el centro es carísimo, no vale la pena.;-1
+no me gusta el olor a pescado en el mercado, es nauseabundo.;-1
+me encanta cuando llueve, el clima fresco es lo mejor.;1
+el servicio al cliente de esa tienda es pésimo, nunca vuelvo.;-1
+hoy me levanté con el pie izquierdo, todo me sale mal.;-1
+qué rica está la sopa que hizo mi abuela, nadie cocina como ella.;1
+la conferencia de hoy fue aburrida, no aprendí nada nuevo.;-1
+no sé qué hacer este fin de semana, estoy indeciso.;0
+el concierto estuvo de la patada, la banda no tocó ninguna canción buena.;-1
+este calor me tiene agotado, no veo la hora de que llueva.;-1
+me encanta caminar por el malecón, la vista al mar es increíble.;1
+mi amigo me prestó dinero, qué alivio, ya puedo pagar la deuda.;1
+no entiendo por qué la gente se queja tanto, la vida es bella.;0
+la comida en el mercado es más auténtica y sabrosa que en los restaurantes.;1
+no aguanto a mi vecino, siempre pone la música a todo volumen.;-1
+hoy me siento positivo, creo que todo va a salir bien.;1
+no me gusta nada levantarme temprano, soy una marmota.;-1
+la película de anoche fue genial, la trama me dejó sorprendido.;1
+la oficina hoy está más tranquila, menos jaleo que de costumbre.;0
+el trámite en el banco fue rápido, no tuve que hacer cola.;1
+odio cuando se va la luz, no puedo ver mi serie favorita.;-1
+estoy emocionado por la visita de mis amigos, será un fin de semana divertido.;1
+el servicio de delivery de esa pizzería es el mejor, siempre puntual.;1
+la universidad está muy lejos, me canso de viajar todos los días.;-1
+me encanta la playa, es mi lugar favorito para relajarme.;1
+no soporto el ruido de los cohetes, siempre me sobresaltan.;-1
+qué bien que me salió el asado, todos quedaron encantados.;1
+hoy me siento agradecido por las pequeñas cosas de la vida.;1
+la comida china de ese lugar es un manjar, la mejor de la ciudad.;1
+no entiendo cómo hay gente que disfruta del fútbol, es aburrido.;-1
+me aburro en casa, no sé qué hacer para pasar el tiempo.;-1
+qué sorpresa encontrarme con mi viejo amigo en la calle, fue genial.;1
+el tráfico en lima es una locura, parece que nadie respeta las reglas.;-1
+me encanta cuando mi abuela me cuenta historias de su juventud.;1
+no aguanto la humedad en verano, siempre estoy sudando.;-1
+hoy fue un día agotador, solo quiero dormir y descansar.;-1
+qué alegría ver crecer a mis plantas, cada día están más bonitas.;1
+la comida en el mercado es más fresca y barata que en el supermercado.;1
+no entiendo por qué la gente no recoge después de sus perros, es asqueroso.;-1
+me encanta cuando llueve y puedo quedarme en casa leyendo un buen libro.;1
+no soporto a la gente que habla fuerte en el cine, arruinan la experiencia.;-1
+qué bien que llegó el fin de semana, por fin podré descansar.;1
+la comida callejera en miraflores es deliciosa, siempre hay opciones nuevas.;1
+no me gusta nada cuando se va la señal del wifi, no puedo trabajar.;-1
+hoy me siento alegre, creo que las cosas van en la dirección correcta.;1
+el trámite en la municipalidad fue un caos, tardé horas en hacerlo.;-1
+me encantó la película de anoche, la trama fue intrigante.;1
+no entiendo por qué la gente tira basura en la calle, falta educación.;-1
+hoy el sol está fuerte, mejor me pongo bloqueador antes de salir.;-1
+qué suerte que encontré estacionamiento rápido, a veces es imposible.;1
+no aguanto el ruido de la construcción en la calle, siempre empiezan temprano.;-1
+estoy emocionado por el concierto de esta noche, será épico.;1
+la comida en la feria gastronómica estaba deliciosa, probé de todo.;1
+no me gusta nada cuando la gente habla por teléfono en el cine.;-1
+hoy me levanté con el pie derecho, todo me está saliendo bien.;1
+la reunión de hoy fue productiva, avanzamos en muchos temas importantes.;1
+no soporto el olor a humo en el centro de lima, es insoportable.;-1
+qué bien que pude solucionar el problema con la computadora, soy un genio.;1
+la comida en la selva es única, tiene sabores que no encuentras en otro lado.;1
+no entiendo nada de política, siempre me pierdo en tantos nombres y partidos.;-1
+hoy me siento relajado, sin preocupaciones, todo está en paz.;0
+la comida en la picantería es tan picante que casi me desmayo, no es para todos.;-1
+no me gusta nada cuando el vecino pone música a todo volumen, parece discoteca.;-1
+qué alegría recibir buenas noticias, hoy es un día excelente.;1
+la comida en la sierra es reconfortante, ideales para combatir el frío.;1
+no entiendo por qué la gente no respeta las colas, es una falta de educación.;-1
+me encanta cuando la comida picante te hace sudar, es un placer masoquista.;1
+hoy el clima está perfecto, ni mucho calor ni mucho frío, ideal para salir.;1
+no aguanto el tráfico en la vía expresa, siempre está congestionada.;-1
+qué bien que pude resolver el problema con el auto, ahora anda como nuevo.;1
+la comida en el mercado es más auténtica y sabrosa que en los restaurantes.;1
+no entiendo nada de tecnología, siempre me pierdo con tantos botones y opciones.;-1
+hoy me siento agradecido por las pequeñas cosas de la vida.;1
+la comida en la parrillada es deliciosa, las carnes están en su punto justo.;1
+no soporto el ruido de la construcción en el edificio, siempre empiezan temprano.;-1
+qué bien que pude solucionar el problema con la impresora, ahora imprime rápido.;1
+la comida en la playa es la mejor, la combinación de mar y comida es perfecta.;1
+no entiendo nada de moda, siempre me siento perdido al comprar ropa.;-1
+hoy me siento animado, creo que voy a lograr mis metas.;1
+la comida en la pizzería es deliciosa, la masa y los ingredientes son de calidad.;1
+no me gusta nada cuando la gente habla en voz alta en el cine, arruinan la experiencia.;-1
+qué bien que pude resolver el problema con la conexión a internet, ahora va rápido.;1
+la comida en el restaurante de comida rápida es rápida, pero no es saludable.;-1
+estoy flipando con el chisme que compartiste en el blog de analytics lane, chevere.;1
+se me chispoteó el código y ahora no corre, pucha vida.;-1
+ayer la comida en el chifa estaba 1, la sazón es insuperable.;1
+la chamba de hoy estuvo heavy, demasiadas pegas, estoy agotado.;-1
+qué tal la peli que vi anoche, una joya total, recomendadísima.;1
+me pelé en la entrevista de trabajo, creo que no me dieron la chamba.;-1
+la reunión fue un poco aburrida, todo estuvo en cero, ni fu ni fa.;0
+estoy chocho con el nuevo celular, es una maravilla.;1
+no entiendo nada de este código, está más enredado que ovillo de lana.;-1
+hoy la birra en el chupe estaba de la patada, calidad total.;1
+me cacharon haciendo trampa en el examen, qué roche.;-1
+la serie que empecé ayer está en 0, ni buena ni mala.;0
+qué bajón, se me cayó el celular y se hizo trizas.;-1
+anoche la juerga estuvo 1, bailamos hasta el amanecer.;1
+no entendí nada de la clase de mate, fue como hablar en chino.;-1
+la comida en la picantería estaba riquísima, todo al 1.;1
+perdí la comba de la chamba y ahora estoy desempleado.;-1
+el partido estuvo bien chévere, ganamos 3-0, pura garra.;1
+mi crush me mandó un mensaje, estoy en las nubes.;1
+hoy todo estuvo en cero, día aburrido y sin emociones.;0
+mi tía cocinó un estofado delicioso, quedé en las nubes.;1
+me rajaron del trabajo, ni modo, a buscar chamba otra vez.;-1
+la película fue bien fea, no la recomiendo para nada.;-1
+estoy a full con el gym, ya se empiezan a notar los resultados.;1
+mi jefe me felicitó por el informe, todo en 1.;1
+qué roche, me tropecé en plena calle frente a todos.;-1
+la pizza que pedí hoy estaba de la patada, bien buena.;1
+hoy fue un día en cero, ni bueno ni malo, así nomás.;0
+estuve en el concierto de mi banda favorita, una experiencia al 1.;1
+se me choteó la laptop justo antes de la presentación, qué mala suerte.;-1
+la nueva serie que empecé es puro 0, ni fu ni fa.;0
+conocí a alguien bien chévere hoy, creo que hay química.;1
+me cancelaron la reunión, día tranquilo sin chamba.;0
+el examen fue fácil, saqué un 20 sobre 20, todo en 1.;1
+hoy todo estuvo en cero, ni risas ni llantos, día soso.;0
+la comida en el mercado estuvo de la patada, bien mala.;-1
+anoche la parrillada estuvo 1, carnes en su punto.;1
+se me perdió el pasaje para el viaje, qué bronca.;-1
+la clase estuvo bien aburrida, el profesor puro bla bla.;-1
+conocí a alguien bien chévere hoy, buena onda total.;1
+la presentación fue un éxito, todos quedaron impresionados.;1
+me robaron la billetera en el mercado, qué mala suerte.;-1
+la nueva serie está bien chévere, engancha desde el primer capítulo.;1
+qué roche, le dije 'mamá' a la profesora en plena clase.;-1
+hoy todo estuvo en cero, ni risas ni llantos, día soso.;0
+la comida en la picantería estuvo de la patada, bien buena.;1
+estuve en el concierto de mi banda favorita, una experiencia al 1.;1
+mi jefe me felicitó por el informe, todo en 1.;1
+la pizza que pedí hoy estaba de la patada, bien buena.;1
+qué tal la peli que vi anoche, una joya total, recomendadísima.;1
+la serie que empecé ayer está en 0, ni buena ni mala.;0
+qué bajón, se me cayó el celular y se hizo trizas.;-1
+la comida en el chifa estaba 1, la sazón es insuperable.;1
+no entendí nada de la clase de mate, fue como hablar en chino.;-1
+mi crush me mandó un mensaje, estoy en las nubes.;1
+me cacharon haciendo trampa en el examen, qué roche.;-1
+la reunión fue un poco aburrida, todo estuvo en cero, ni fu ni fa.;0
+la chamba de hoy estuvo heavy, demasiadas pegas, estoy agotado.;-1
+no entiendo nada de este código, está más enredado que ovillo de lana.;-1
+estoy chocho con el nuevo celular, es una maravilla.;1
+perdí la comba de la chamba y ahora estoy desempleado.;-1
+el código no me sale, creo que lo estoy haciendo más complicado.;-1
+anoche la juerga estuvo 1, bailamos hasta el amanecer.;1
+la comida en el mercado estuvo de la patada, bien mala.;-1
+qué roche, le dije 'mamá' a la profesora en plena clase.;-1
+me cancelaron la reunión, día tranquilo sin chamba.;0
+la nueva serie que empecé es puro 0, ni fu ni fa.;0
+se me perdió el pasaje para el viaje, qué bronca.;-1
+la clase estuvo bien aburrida, el profesor puro bla bla.;-1
+conocí a alguien bien chévere hoy, buena onda total.;1
+la presentación fue un éxito, todos quedaron impresionados.;1
+me robaron la billetera en el mercado, qué mala suerte.;-1
+la nueva serie está bien chévere, engancha desde el primer capítulo.;1
+hoy todo estuvo en cero, ni risas ni llantos, día soso.;0
+la comida en la picantería estuvo de la patada, bien buena.;1
+estuve en el concierto de mi banda favorita, una experiencia al 1.;1
+mi jefe me felicitó por el informe, todo en 1.;1
+la pizza que pedí hoy estaba de la patada, bien buena.;1
+qué tal la peli que vi anoche, una joya total, recomendadísima.;1
+la serie que empecé ayer está en 0, ni buena ni mala.;0
+qué bajón, se me cayó el celular y se hizo trizas.;-1
+la comida en el chifa estaba 1, la sazón es insuperable.;1
+no entendí nada de la clase de mate, fue como hablar en chino.;-1
+mi crush me mandó un mensaje, estoy en las nubes.;1
+me cacharon haciendo trampa en el examen, qué roche.;-1
+la reunión fue un poco aburrida, todo estuvo en cero, ni fu ni fa.;0
+la chamba de hoy estuvo heavy, demasiadas pegas, estoy agotado.;-1
+no entiendo nada de este código, está más enredado que ovillo de lana.;-1
+estoy chocho con el nuevo celular, es una maravilla.;1
+perdí la comba de la chamba y ahora estoy desempleado.;-1
+el código no me sale, creo que lo estoy haciendo más complicado.;-1
+anoche la juerga estuvo 1, bailamos hasta el amanecer.;1
+la comida en el mercado estuvo de la patada, bien mala.;-1
+qué roche, le dije 'mamá' a la profesora en plena clase.;-1
+me cancelaron la reunión, día tranquilo sin chamba.;0
+la nueva serie que empecé es puro 0, ni fu ni fa.;0
+se me perdió el pasaje para el viaje, qué bronca.;-1
+la clase estuvo bien aburrida, el profesor puro bla bla.;-1
+conocí a alguien bien chévere hoy, buena onda total.;1
+la presentación fue un éxito, todos quedaron impresionados.;1
+me robaron la billetera en el mercado, qué mala suerte.;-1
+la nueva serie está bien chévere, engancha desde el primer capítulo.;1
+hoy todo estuvo en cero, ni risas ni llantos, día soso.;0
+la comida en la picantería estuvo de la patada, bien buena.;1
+estuve en el concierto de mi banda favorita, una experiencia al 1.;1
+mi jefe me felicitó por el informe, todo en 1.;1
+la pizza que pedí hoy estaba de la patada, bien buena.;1
+qué tal la peli que vi anoche, una joya total, recomendadísima.;1
+la serie que empecé ayer está en 0, ni buena ni mala.;0
+qué bajón, se me cayó el celular y se hizo trizas.;-1
+la comida en el chifa estaba 1, la sazón es insuperable.;1
+no entendí nada de la clase de mate, fue como hablar en chino.;-1
+mi crush me mandó un mensaje, estoy en las nubes.;1
+me cacharon haciendo trampa en el examen, qué roche.;-1
+la reunión fue un poco aburrida, todo estuvo en cero, ni fu ni fa.;0
+la chamba de hoy estuvo heavy, demasiadas pegas, estoy agotado.;-1
+no entiendo nada de este código, está más enredado que ovillo de lana.;-1
+estoy chocho con el nuevo celular, es una maravilla.;1
+perdí la comba de la chamba y ahora estoy desempleado.;-1
+el código no me sale, creo que lo estoy haciendo más complicado.;-1
+anoche la juerga estuvo 1, bailamos hasta el amanecer.;1
+la comida en el mercado estuvo de la patada, bien mala.;-1
+qué roche, le dije 'mamá' a la profesora en plena clase.;-1
+me cancelaron la reunión, día tranquilo sin chamba.;0
+la nueva serie que empecé es puro 0, ni fu ni fa.;0
+se me perdió el pasaje para el viaje, qué bronca.;-1
+la clase estuvo bien aburrida, el profesor puro bla bla.;-1
+conocí a alguien bien chévere hoy, buena onda total.;1
+la presentación fue un éxito, todos quedaron impresionados.;1
+me robaron la billetera en el mercado, qué mala suerte.;-1
+la nueva serie está bien chévere, engancha desde el primer capítulo.;1
+hoy todo estuvo en cero, ni risas ni llantos, día soso.;0
+la comida en la picantería estuvo de la patada, bien buena.;1
+estuve en el concierto de mi banda favorita, una experiencia al 1.;1
+mi jefe me felicitó por el informe, todo en 1.;1
+la pizza que pedí hoy estaba de la patada, bien buena.;1
+qué tal la peli que vi anoche, una joya total, recomendadísima.;1
+la serie que empecé ayer está en 0, ni buena ni mala.;0
+qué bajón, se me cayó el celular y se hizo trizas.;-1
+la comida en el chifa estaba 1, la sazón es insuperable.;1
+no entendí nada de la clase de mate, fue como hablar en chino.;-1
+mi crush me mandó un mensaje, estoy en las nubes.;1
+me cacharon haciendo trampa en el examen, qué roche.;-1
+la reunión fue un poco aburrida, todo estuvo en cero, ni fu ni fa.;0
+la chamba de hoy estuvo heavy, demasiadas pegas, estoy agotado.;-1
+no entiendo nada de este código, está más enredado que ovillo de lana.;-1
+estoy chocho con el nuevo celular, es una maravilla.;1
+perdí la comba de la chamba y ahora estoy desempleado.;-1
+el código no me sale, creo que lo estoy haciendo más complicado.;-1
+anoche la juerga estuvo 1, bailamos hasta el amanecer.;1
+la comida en el mercado estuvo de la patada, bien mala.;-1
+qué roche, le dije 'mamá' a la profesora en plena clase.;-1
+me cancelaron el partido de fulbito, día malogrado.;-1
+la música del concierto estaba al 1, puro sabor.;1
+mi compi de la chamba me tiró la posta, hoy hay aumentazo de sueldo.;1
+hoy todo estuvo chévere, ni frío ni calor, día relax.;0
+el viaje a la playa estuvo 1, sol, arena y mar.;1
+qué bajón, me chocaron el carro en plena avenida.;-1
+el asado en casa de mi pata estuvo de la patada, buena carne y buena vibra.;1
+hoy me rajé con el código, por fin funciona como debe.;1
+anoche la rumba estuvo 1, baile hasta las 5 de la mañana.;1
+me encontré con mi ex en el centro, qué oso.;-1
+la serie nueva que vi es más aburrida que ver crecer las plantas.;-1
+mi equipo ganó el campeonato, pura emoción.;1
+la comida picante no es lo mío, la cena estuvo bien mala.;-1
+la reunión de hoy estuvo en 0, puros chismes sin importancia.;0
+la puesta de sol en la playa estuvo al 1, colores increíbles.;1
+perdí la llave de la casa, ahora estoy varado en la calle.;-1
+la comida en el mercado siempre es al 1, fresca y sabrosa.;1
+no entiendo nada de este libro, el autor habla en otro idioma.;-1
+el examen fue un desastre, ni idea de lo que preguntaban.;-1
+la película nueva es más mala que pegarle a tu abuelita.;-1
+hoy todo estuvo en cero, ni risas ni llantos, día neutro.;0
+la comida en la pollería estuvo 1, el pollo bien jugoso.;1
+me cagué de risa con el monólogo del comediante, un genio.;1
+se me quemó la comida, qué despiste.;-1
+la serie de terror me dejó helado, no puedo dormir.;-1
+el partido de fútbol estuvo bien parejo, empate a cero.;0
+hoy me salió todo mal, desde que me levanté hasta que me acosté.;-1
+la comida en casa de la abuela siempre es al 1, amor en cada plato.;1
+me olvidé la billetera en casa, ahora no puedo pagar el taxi.;-1
+el concierto estuvo de la patada, el sonido era pésimo.;-1
+la nueva serie es más aburrida que ver crecer las plantas.;-1
+me dieron el ascenso en el trabajo, estoy en las nubes.;1
+qué tal la película que vi anoche, más mala que pegarle a tu abuelita.;-1
+mi crush me dio like en todas mis fotos, estoy chocho.;1
+la comida en la cevichería estuvo al 1, pescado fresco y bien sazonado.;1
+me echaron del trabajo sin previo aviso, qué mal plan.;-1
+la serie de ciencia ficción está al 1, trama intrigante y efectos especiales geniales.;1
+qué bajón, se me cayó el helado justo antes de darle el primer mordisco.;-1
+la comida en la pizzería estuvo 1, masa crujiente y buen queso.;1
+me crucé con mi ex en el centro y ni me saludó, qué oso.;-1
+la fiesta de cumpleaños estuvo al 1, música, amigos y torta.;1
+hoy todo estuvo chévere, ni frío ni calor, día relax.;0
+el viaje a la playa estuvo 1, sol, arena y mar.;1
+qué bajón, me chocaron el carro en plena avenida.;-1
+el asado en casa de mi pata estuvo de la patada, buena carne y buena vibra.;1
+hoy me rajé con el código, por fin funciona como debe.;1
+anoche la rumba estuvo 1, baile hasta las 5 de la mañana.;1
+me encontré con mi ex en el centro, qué oso.;-1
+la serie nueva que vi es más aburrida que ver crecer las plantas.;-1
+mi equipo ganó el campeonato, pura emoción.;1
+la comida picante no es lo mío, la cena estuvo bien mala.;-1
+la reunión de hoy estuvo en 0, puros chismes sin importancia.;0
+la puesta de sol en la playa estuvo al 1, colores increíbles.;1
+perdí la llave de la casa, ahora estoy varado en la calle.;-1
+la comida en el mercado siempre es al 1, fresca y sabrosa.;1
+no entiendo nada de este libro, el autor habla en otro idioma.;-1
+el examen fue un desastre, ni idea de lo que preguntaban.;-1
+la película nueva es más mala que pegarle a tu abuelita.;-1
+hoy todo estuvo en cero, ni risas ni llantos, día neutro.;0
+la comida en la pollería estuvo 1, el pollo bien jugoso.;1
+me cagué de risa con el monólogo del comediante, un genio.;1
+se me quemó la comida, qué despiste.;-1
+la serie de terror me dejó helado, no puedo dormir.;-1
+el partido de fútbol estuvo bien parejo, empate a cero.;0
+hoy me salió todo mal, desde que me levanté hasta que me acosté.;-1
+la comida en casa de la abuela siempre es al 1, amor en cada plato.;1
+me olvidé la billetera en casa, ahora no puedo pagar el taxi.;-1
+el concierto estuvo de la patada, el sonido era pésimo.;-1
+la nueva serie es más aburrida que ver crecer las plantas.;-1
+me dieron el ascenso en el trabajo, estoy en las nubes.;1
+qué tal la película que vi anoche, más mala que pegarle a tu abuelita.;-1
+mi crush me dio like en todas mis fotos, estoy chocho.;1
+la comida en la cevichería estuvo al 1, pescado fresco y bien sazonado.;1
+me echaron del trabajo sin previo aviso, qué mal plan.;-1
+la serie de ciencia ficción está al 1, trama intrigante y efectos especiales geniales.;1
+qué bajón, se me cayó el helado justo antes de darle el primer mordisco.;-1
+la comida en la pizzería estuvo 1, masa crujiente y buen queso.;1
+me crucé con mi ex en el centro y ni me saludó, qué oso.;-1
+la fiesta de cumpleaños estuvo al 1, música, amigos y torta.;1
