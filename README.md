@@ -19,7 +19,7 @@ Analizar los sentimientos y opiniones expresados en Twitter en relación a la me
 * Procesamiento de datos: Pandas, PySpark
 * Análisis EDA: Pandas, Numpy, Matplotlip
 * Lenguajes de programación: Python
-* Otras librerias: transfo
+* Otras librerias: transformers, datasets, tensorflow, accelerate
 
 ## Publicación a analisizar
 https://x.com/larepublica_pe/status/1710265041004495208?s=20
