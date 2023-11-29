@@ -17,6 +17,8 @@ https://docs.google.com/presentation/d/16OaJXqO5NP7ZYT28ljQ4JEJ9JuIbCSB0Ap2fJuqw
 
 ## Publicación a analisizar
 https://x.com/larepublica_pe/status/1710265041004495208?s=20
+![image](https://github.com/JBenjaminGM/ProyectoFinal-Analisis-de-Sentimiento/assets/118006071/8800c582-46d1-4da0-9d99-04398917c727)
+
 
 ## Objetivo
 Analizar los sentimientos y opiniones expresados en Twitter en relación a la medida gubernamental que permite a la policía detener a civiles durante hasta 4 horas sin DNI y sin necesidad de la presencia de un juez o fiscal. A través de este análisis, buscamos comprender la percepción pública de esta política, identificar tendencias o patrones en la discusión, y proporcionar información valiosa sobre cómo se siente la sociedad en general sobre esta medida.
